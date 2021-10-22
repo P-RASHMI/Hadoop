@@ -1,0 +1,3 @@
+Hi this is sample program for wordcount Hi this is to execute wordcount of the we get count of words
+Hi this is sample program for wordcount Hi this is to execute wordcount of the input data the words are incremented
+we get count of words
