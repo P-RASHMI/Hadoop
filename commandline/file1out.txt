@@ -1,0 +1,6 @@
+hi 
+hello
+welcome
+hadoop
+using
+subprocess
